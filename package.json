@@ -1,0 +1,19 @@
+{
+  "name": "node-package",
+  "version": "1.0.0",
+  "description": "A node package template/quick start",
+  "main": "package.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/envman/node-package.git"
+  },
+  "author": "Robert Gill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/envman/node-package/issues"
+  },
+  "homepage": "https://github.com/envman/node-package#readme"
+}
